@@ -1,3 +1,4 @@
+[![Build Status](https://arcotek-ltd.visualstudio.com/AdminTools/_apis/build/status/arcotek-ltd.pipelines-java?branchName=master)](https://arcotek-ltd.visualstudio.com/AdminTools/_build/latest?definitionId=46&branchName=master)
 
 # Contributing
 
